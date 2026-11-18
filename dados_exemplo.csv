@@ -1,0 +1,201 @@
+id_pedido,data_pedido,id_cliente,produto,categoria,quantidade,valor_unitario,desconto,status_pedido,regiao,metodo_pagamento
+ORD-1001,2026-01-13,CLI-117,Mouse Sem Fio,Acessórios,7,,5%,concluido,Centro-Oeste,PIX
+ORD-1002,2026-10-07,CLI-135,Notebook Pro 15,Eletrônicos,5,4500,,Pendente,Sul,Cartão de Crédito
+ORD-1003,2026-06-26,CLI-158,Mouse Sem Fio,Acessórios,10,120.5,,Pendente,Centro-Oeste,
+ORD-1004,2026-05-29,CLI-112,Webcam Full HD,Eletrônicos,6,"R$ 310,00",0,cancelado,Sul,pix
+ORD-1005,2026-03-25,CLI-171,Monitor 27 Polegadas,Eletrônicos,4,1800.0,,Pendente,SUL,Boleto
+ORD-1006,2026-10-18,CLI-163,Webcam Full HD,Eletrônicos,3,310,,cancelado,SUL,pix
+ORD-1007,2026-03-12,CLI-106,Mouse Sem Fio,Acessórios,10,120,,Devolvido,,pix
+ORD-1008,2026-01-06,CLI-168,Cadeira Ergonômica,Móveis, 2 ,1250.00,15,cancelado,Nordeste,pix
+ORD-1009,2026-09-17,CLI-120,Notebook Pro 15,Eletrônicos,6,4500.0,,cancelado,Centro-Oeste,Cartão de Crédito
+ORD-1010,10/02/2026,CLI-108,Teclado Mecânico,Acessórios,5,350.0,15,Devolvido,Centro-Oeste,pix
+ORD-1011,2026-06-09,CLI-147,Mesa de Escritório,Móveis,2,"R$ 890,00",,Cancelado,Centro-Oeste,Cartão de Crédito
+ORD-1012,28/04/2026,,Headset Gamer,Acessórios,4,280.9,10,,Centro-Oeste,Cartão de Débito
+ORD-1013,2026-08-09,CLI-106,Mouse Sem Fio,Acessórios,2,120,10%,Cancelado,,PIX
+ORD-1014,2026-02-08,CLI-170,Mouse Sem Fio,Acessórios,2,120.5,5%,Cancelado,Nordeste,Cartão de Débito
+ORD-1015,31/01/2026,,Webcam Full HD,Eletrônicos,7,310.0,,,Nordeste,PIX
+ORD-1016,2026-10-24,CLI-140,Notebook Pro 15,Eletrônicos,9,4500,15%,concluido,Nordeste,Cartão de Crédito
+ORD-1017,26/07/2026,CLI-131,Notebook Pro 15,Eletrônicos,9,"R$ 4500,00",10,cancelado,Centro-Oeste,
+ORD-1018,2026-03-09,CLI-140,Mouse Sem Fio,,2,120,0,Cancelado,Norte,PIX
+ORD-1019,2026.07.09,CLI-169,Cadeira Ergonômica,Móveis,1,1250.0,,cancelado,Sul,PIX
+ORD-1020,11/10/2026,CLI-126,Headset Gamer,Acessórios, 4 ,"R$ 280,90",10%,Concluído,Sul,
+ORD-1021,2026-06-20,CLI-133,Teclado Mecânico,Acessórios,1,350,5%,CONCLUÍDO,Sudeste,Boleto
+ORD-1022,2026.01.22,CLI-105,Headset Gamer,Acessórios,9,280.9,10,Devolvido,Nordeste,PIX
+ORD-1023,13/01/2026,CLI-152,Monitor 27 Polegadas,Eletrônicos,1,1800.0,,Cancelado,Centro-Oeste,Cartão de Débito
+ORD-1024,27/04/2026,CLI-151,headset gamer,Acessórios,6,280.9,,Devolvido,sudeste,Cartão de Crédito
+ORD-1025,2026-04-02,CLI-104,Mouse Sem Fio,Acessórios,7,120.5,,concluido,SUL,pix
+ORD-1026,,CLI-168,monitor 27 polegadas,Eletrônicos,6,1800.0,,concluido,Norte,pix
+ORD-1027,2026-07-26,CLI-124,Webcam Full HD,Eletrônicos,3,310.0,20,cancelado,SUL,pix
+ORD-1028,2026-08-09,CLI-141,Mesa de Escritório,Móveis,3,890.0,10,cancelado,sudeste,Cartão de Crédito
+ORD-1029,2026-04-26,CLI-105,Monitor 27 Polegadas,Eletrônicos,8,1800.00,,Cancelado,SUL,Cartão de Débito
+ORD-1030,2026-01-03,CLI-113,Webcam Full HD,Eletrônicos,8,310,,Cancelado,Sul,Cartão de Débito
+ORD-1031,2026-09-29,CLI-156,Webcam Full HD,Eletrônicos,8,310.00,5%,Cancelado,Norte,pix
+ORD-1032,2026-02-09,CLI-142,Headset Gamer,Acessórios,7,280.9,15%,Cancelado,Sul,Cartão de Débito
+ORD-1033,01/02/2026,CLI-174,Notebook Pro 15,Eletrônicos,1,4500.0,15%,cancelado,SUL,Cartão de Débito
+ORD-1034,2026-04-23,CLI-162,Notebook Pro 15,Eletrônicos,3,4500.0,15%,CONCLUÍDO,Sudeste,Cartão de Débito
+ORD-1028,2026-03-11,CLI-133,Webcam Full HD,Eletrônicos,7,"R$ 310,00",15%,Devolvido,Norte,Cartão de Crédito
+ORD-1036,29/06/2026,CLI-105,Notebook Pro 15,Eletrônicos,,4500,,CONCLUÍDO,,
+ORD-1037,2026-08-27,CLI-121,Mouse Sem Fio,Acessórios,-1,120.5,10,cancelado,SUL,Cartão de Débito
+ORD-1038,05/05/2026,CLI-176,Mouse Sem Fio,Acessórios,,120.5,0,Pendente,Sul,pix
+ORD-1039,08/09/2026,CLI-158,Teclado Mecânico,Acessórios,5,350.0,0,,,Cartão de Débito
+ORD-1040,2026-05-06,CLI-157,Monitor 27 Polegadas,Eletrônicos,6,,,Pendente,Nordeste,Cartão de Débito
+ORD-1041,2026.06.24,CLI-135,Notebook Pro 15,Eletrônicos,7,4500.00,50,Cancelado,,
+ORD-1042,2026.02.17,CLI-131,Cadeira Ergonômica,Móveis,6,1250.00,10%,Pendente,sudeste,
+ORD-1043,2026-03-03,CLI-168,Teclado Mecânico,Acessórios, 5 ,350.0,,cancelado,Sul,PIX
+ORD-1044,,CLI-135,Notebook Pro 15,Eletrônicos,3,4500.0,10%,,Sul,Cartão de Crédito
+ORD-1045,24/06/2026,,mesa de escritório,Móveis,10,890.0,20,Concluído,Nordeste,PIX
+ORD-1046,08/05/2026,CLI-177,Monitor 27 Polegadas,Eletrônicos,5,1800.0,0,Devolvido,Norte,pix
+ORD-1047,2026-02-20,CLI-127,Cadeira Ergonômica,Móveis,2,1250,10%,Devolvido,,
+ORD-1048,2026-05-28,CLI-158,Mouse Sem Fio,Acessórios,10,120.5,15%,Cancelado,SUL,Cartão de Crédito
+ORD-1049,2026-05-17,CLI-121,Cadeira Ergonômica,Móveis,8,1250,10%,cancelado,SUL,Boleto
+ORD-1050,2026-01-21,CLI-177,Cadeira Ergonômica,,10,1250.0,,Concluído,Norte,pix
+ORD-1051,2026-08-29,CLI-135,Teclado Mecânico,Acessórios,2,350.00,10,Devolvido,sudeste,Boleto
+ORD-1052,2026.09.11,CLI-170,Notebook Pro 15,Eletrônicos,7,4500.0,,Concluído,,Cartão de Débito
+ORD-1053,2026-09-13,CLI-126,Cadeira Ergonômica,Móveis,8,1250,15%,Cancelado,Nordeste,Boleto
+ORD-1054,2026-04-26,CLI-159,Mouse Sem Fio,Acessórios,5,120.5,10,cancelado,SUL,Cartão de Débito
+ORD-1055,2026-03-16,CLI-165,Teclado Mecânico,Acessórios,7,"R$ 350,00",0,cancelado,Sudeste,Boleto
+ORD-1056,2026-09-08,CLI-161,Headset Gamer,Acessórios,6,280.9,50,Cancelado,SUL,PIX
+ORD-1057,2026-08-31,CLI-149,teclado mecânico,Acessórios,10,"R$ 350,00",10%,concluido,,Cartão de Crédito
+ORD-1010,2026-07-29,CLI-109,Mesa de Escritório,Móveis,7,890.0,50,Pendente,SUL,Boleto
+ORD-1059,2026-01-19,CLI-136,Monitor 27 Polegadas,Eletrônicos,2,1800.00,,cancelado,Sudeste,Cartão de Crédito
+ORD-1060,2026-07-03,CLI-167,Webcam Full HD,Eletrônicos,2,310.0,10,Devolvido,Centro-Oeste,Cartão de Débito
+ORD-1061,2026-05-11,CLI-159,Cadeira Ergonômica,Móveis,6,1250.0,,cancelado,SUL,
+ORD-1062,2026-04-12,CLI-113,Monitor 27 Polegadas,Eletrônicos, 3 ,,15%,Devolvido,Norte,Cartão de Crédito
+ORD-1063,2026-01-26,CLI-136,Monitor 27 Polegadas,Eletrônicos,10,"R$ 1800,00",20,CONCLUÍDO,Sul,
+ORD-1064,2026-01-18,CLI-111,Cadeira Ergonômica,Móveis,9,1250.0,,Pendente,Norte,PIX
+ORD-1065,2026-09-04,CLI-143,mouse sem fio,Acessórios,4,120.5,0,Devolvido,sudeste,Cartão de Crédito
+ORD-1066,2026-03-05,CLI-133,Webcam Full HD,Eletrônicos,4,310.00,,Pendente,Centro-Oeste,
+ORD-1067,2026-06-04,CLI-105,Notebook Pro 15,Eletrônicos,9,4500,15,,sudeste,
+ORD-1068,2026-08-03,CLI-153,Mouse Sem Fio,Acessórios,5,,5%,Pendente,Centro-Oeste,Cartão de Débito
+ORD-1069,2026-02-20,CLI-145,Notebook Pro 15,Eletrônicos,8,4500,10,Cancelado,Sudeste,Cartão de Crédito
+ORD-1070,17/10/2026,CLI-170,Monitor 27 Polegadas,Eletrônicos,3,1800.0,0,Concluído,Norte,PIX
+ORD-1071,31/03/2026,CLI-116,Notebook Pro 15,Eletrônicos,1,4500,5%,Concluído,Nordeste,
+ORD-1072,2026-09-01,CLI-175,Mouse Sem Fio,Acessórios,9,"R$ 120,50",50,Concluído,Sudeste,Cartão de Débito
+ORD-1073,2026-09-09,CLI-110,headset gamer,Acessórios, 5 ,280.9,10%,Pendente,SUL,pix
+ORD-1074,09/08/2026,CLI-170,Monitor 27 Polegadas,Eletrônicos,8,"R$ 1800,00",,concluido,sudeste,Cartão de Débito
+ORD-1075,2026-03-20,CLI-111,Mouse Sem Fio,Acessórios,3,120.5,,Pendente,Sul,Cartão de Débito
+ORD-1076,2026-08-05,CLI-136,Cadeira Ergonômica,Móveis,8,1250,,concluido,sudeste,pix
+ORD-1077,21/10/2026,CLI-171,Notebook Pro 15,Eletrônicos,1,4500,,cancelado,sudeste,Boleto
+ORD-1078,2026-10-17,CLI-103,Mouse Sem Fio,Acessórios,6,120,5%,cancelado,sudeste,pix
+ORD-1079,2026-01-26,CLI-154,Mesa de Escritório,Móveis,9,890,0,Devolvido,Sul,Boleto
+ORD-1080,,CLI-176,Notebook Pro 15,,3,4500.0,,cancelado,sudeste,Cartão de Crédito
+ORD-1081,31/03/2026,CLI-129,Headset Gamer,Acessórios,,,10%,concluido,sudeste,pix
+ORD-1082,2026.08.02,CLI-141,Teclado Mecânico,Acessórios,6,350,15%,concluido,Centro-Oeste,Cartão de Débito
+ORD-1083,2026-06-08,CLI-121,Mouse Sem Fio,Acessórios,6,"R$ 120,50",,CONCLUÍDO,Centro-Oeste,Cartão de Crédito
+ORD-1084,2026-03-20,CLI-122,Mesa de Escritório,Móveis,10,890.0,10%,Pendente,sudeste,PIX
+ORD-1085,2026-06-05,CLI-145,Mouse Sem Fio,Acessórios,5,120,15%,concluido,SUL,Cartão de Débito
+ORD-1086,2026-08-19,CLI-124,Headset Gamer,Acessórios,8,280,0,Pendente,Sul,pix
+ORD-1087,2026-08-13,CLI-178,Teclado Mecânico,Acessórios,6,350.0,,Concluído,sudeste,Cartão de Crédito
+ORD-1088,2026.07.17,CLI-177,Teclado Mecânico,Acessórios,6,"R$ 350,00",0,Devolvido,Nordeste,pix
+ORD-1089,2026-07-12,CLI-116,Mouse Sem Fio,Acessórios,6,"R$ 120,50",,Cancelado,sudeste,Cartão de Débito
+ORD-1090,21/03/2026,CLI-112,Notebook Pro 15,Eletrônicos,10,"R$ 4500,00",10,CONCLUÍDO,Nordeste,
+ORD-1091,2026-01-23,CLI-130,Mesa de Escritório,Móveis,4,890.0,,cancelado,,PIX
+ORD-1092,2026-08-14,CLI-148,Webcam Full HD,Eletrônicos,3,310.0,5%,Concluído,,Boleto
+ORD-1093,2026-09-22,CLI-120,Cadeira Ergonômica,Móveis,2,1250.0,50,Cancelado,,Boleto
+ORD-1094,2026-09-15,CLI-110,Headset Gamer,Acessórios,6,280.9,50,CONCLUÍDO,Sudeste,Boleto
+ORD-1095,2026-03-13,CLI-178,notebook pro 15,Eletrônicos,3,4500.0,,Devolvido,Sul,Boleto
+ORD-1096,2026-05-03,CLI-158,Mouse Sem Fio,Acessórios,1,120.5,15%,Cancelado,Nordeste,Boleto
+ORD-1097,2026-10-20,CLI-110,Headset Gamer,Acessórios,9,280.9,20,Devolvido,,Cartão de Crédito
+ORD-1098,2026-01-09,CLI-130,Mouse Sem Fio,Acessórios,1,"R$ 120,50",15%,Pendente,Nordeste,
+ORD-1099,2026-04-04,CLI-158,notebook pro 15,Eletrônicos,1,"R$ 4500,00",5%,cancelado,SUL,pix
+ORD-1100,2026.04.08,CLI-106,Headset Gamer,Acessórios,7,280.9,10%,Devolvido,sudeste,PIX
+ORD-1101,2026.09.23,CLI-154,Mouse Sem Fio,Acessórios,5,"R$ 120,50",,concluido,sudeste,
+ORD-1102,07/08/2026,CLI-157,Notebook Pro 15,Eletrônicos,7,"R$ 4500,00",20,Concluído,Sul,
+ORD-1103,2026-03-23,CLI-177,mesa de escritório,,6,"R$ 890,00",10%,Concluído,Nordeste,
+ORD-1104,2026-02-09,CLI-150,Headset Gamer,Acessórios,3,280.90,15,Devolvido,Sul,Boleto
+ORD-1105,2026-05-27,CLI-125,mouse sem fio,Acessórios,8,120.5,,Pendente,sudeste,
+ORD-1106,2026-06-03,CLI-122,Headset Gamer,Acessórios,3,280,10%,,Sudeste,Boleto
+ORD-1107,10/10/2026,CLI-108,Cadeira Ergonômica,Móveis,7,1250.0,50,concluido,Nordeste,Boleto
+ORD-1108,2026.09.22,CLI-170,Teclado Mecânico,Acessórios,1,350.0,,CONCLUÍDO,Norte,PIX
+ORD-1109,2026.04.26,CLI-136,Mouse Sem Fio,Acessórios,3,120.5,10,concluido,Nordeste,pix
+ORD-1110,2026-06-22,CLI-103,Mouse Sem Fio,,4,120.5,0,Devolvido,Sudeste,Cartão de Débito
+ORD-1111,2026-06-04,CLI-151,Cadeira Ergonômica,Móveis,7,1250.00,,Cancelado,sudeste,pix
+ORD-1112,2026-06-13,CLI-151,Teclado Mecânico,Acessórios,4,350.00,,cancelado,,PIX
+ORD-1113,2026-07-16,CLI-120,Headset Gamer,Acessórios,3,280.90,5%,,,Boleto
+ORD-1114,2026-09-16,CLI-174,Headset Gamer,,8,"R$ 280,90",,Concluído,Sul,Cartão de Débito
+ORD-1115,2026-07-07,CLI-151,Notebook Pro 15,Eletrônicos,2,"R$ 4500,00",0,,Norte,pix
+ORD-1116,2026-02-19,CLI-143,Headset Gamer,Acessórios,9,,,Concluído,Nordeste,
+ORD-1117,22/08/2026,CLI-117,Headset Gamer,Acessórios,10,280.9,0,cancelado,sudeste,pix
+ORD-1118,2026.10.16,CLI-147,Headset Gamer,Acessórios,1,280.9,,cancelado,Centro-Oeste,
+ORD-1119,2026-09-26,CLI-148,Teclado Mecânico,Acessórios,2,350,,,sudeste,Cartão de Débito
+ORD-1120,2026-07-30,CLI-160,Notebook Pro 15,Eletrônicos,8,4500.0,20,Pendente,Nordeste,Cartão de Débito
+ORD-1121,2026-05-16,CLI-131,Cadeira Ergonômica,Móveis,5,1250.0,15%,Cancelado,,Boleto
+ORD-1122,2026.05.21,CLI-169,Webcam Full HD,Eletrônicos,3,"R$ 310,00",15,cancelado,Sul,Boleto
+ORD-1123,03/09/2026,CLI-134,Cadeira Ergonômica,Móveis,4,1250,,Cancelado,Centro-Oeste,Cartão de Crédito
+ORD-1124,30/08/2026,CLI-100,Teclado Mecânico,Acessórios,8,350.0,0,cancelado,sudeste,Boleto
+ORD-1125,2026-04-29,CLI-104,Teclado Mecânico,Acessórios,1,350.0,20,Devolvido,,PIX
+ORD-1126,2026.01.05,CLI-142,Cadeira Ergonômica,Móveis,3,1250.0,20,,Norte,PIX
+ORD-1127,2026-08-23,CLI-101,Headset Gamer,Acessórios,3,280.9,,Devolvido,SUL,pix
+ORD-1128,18/02/2026,CLI-141,Monitor 27 Polegadas,,5,1800.0,15,cancelado,Sudeste,Boleto
+ORD-1129,2026-03-02,CLI-164,Cadeira Ergonômica,Móveis,6,1250.0,,Cancelado,Nordeste,Cartão de Débito
+ORD-1130,2026-07-11,CLI-160,Monitor 27 Polegadas,Eletrônicos,2,1800.0,,Pendente,Sul,pix
+ORD-1131,16/09/2026,CLI-121,Headset Gamer,Acessórios,10,280.90,,,Sudeste,Cartão de Débito
+ORD-1132,16/10/2026,CLI-139,Notebook Pro 15,Eletrônicos,10,4500,,Devolvido,sudeste,
+ORD-1133,2026-02-05,CLI-136,Webcam Full HD,Eletrônicos,7,"R$ 310,00",,Devolvido,,Cartão de Débito
+ORD-1134,04/10/2026,CLI-115,Teclado Mecânico,Acessórios,4,350.0,0,Concluído,Norte,Cartão de Débito
+ORD-1135,2026-07-14,CLI-144,Teclado Mecânico,Acessórios,2,,,Devolvido,Sudeste,PIX
+ORD-1136,2026-01-18,CLI-106,Monitor 27 Polegadas,Eletrônicos,4,1800.0,10,Concluído,Nordeste,pix
+ORD-1137,2026.10.22,CLI-141,Monitor 27 Polegadas,Eletrônicos,4,1800.00,15,cancelado,Sudeste,pix
+ORD-1138,2026-08-07,,Headset Gamer,Acessórios,6,280.9,,Devolvido,Nordeste,Boleto
+ORD-1139,31/08/2026,CLI-118,Mesa de Escritório,Móveis,9,890.0,,Devolvido,Centro-Oeste,Boleto
+ORD-1140,2026-08-19,CLI-124,Notebook Pro 15,Eletrônicos,2,4500,20,Cancelado,,PIX
+ORD-1141,08/01/2026,CLI-115,Mesa de Escritório,Móveis,7,890.0,15%,Pendente,Norte,Cartão de Débito
+ORD-1142,2026-05-14,CLI-159,Mouse Sem Fio,Acessórios,6,120.5,,Pendente,sudeste,Cartão de Débito
+ORD-1143,,CLI-174,Webcam Full HD,Eletrônicos,10,310.0,50,,sudeste,Boleto
+ORD-1144,2026-09-09,CLI-145,Teclado Mecânico,Acessórios,9,350.0,15,Concluído,Sudeste,Cartão de Crédito
+ORD-1145,2026-01-04,CLI-129,mouse sem fio,Acessórios,6,120,,,,Cartão de Crédito
+ORD-1146,,CLI-168,Cadeira Ergonômica,,3,1250,,concluido,Nordeste,PIX
+ORD-1147,2026.07.01,CLI-147,Webcam Full HD,Eletrônicos,5,310.0,10%,concluido,Sudeste,Cartão de Crédito
+ORD-1148,2026-01-29,CLI-110,Mesa de Escritório,Móveis,2,890.0,15,Concluído,Centro-Oeste,PIX
+ORD-1149,2026.09.01,CLI-135,Notebook Pro 15,Eletrônicos,,4500,,CONCLUÍDO,SUL,Cartão de Crédito
+ORD-1150,2026-10-18,CLI-169,Headset Gamer,Acessórios,2,280.9,5%,Pendente,Sudeste,Cartão de Crédito
+ORD-1151,2026-07-23,CLI-134,Mesa de Escritório,Móveis,7,890,,Devolvido,Sul,pix
+ORD-1152,07/02/2026,CLI-119,Webcam Full HD,Eletrônicos,,"R$ 310,00",,Pendente,Norte,Cartão de Crédito
+ORD-1153,2026-08-18,CLI-113,Notebook Pro 15,Eletrônicos,6,4500.0,,Concluído,Norte,Cartão de Débito
+ORD-1154,2026-10-14,CLI-173,Teclado Mecânico,Acessórios, 3 ,350.00,,concluido,Nordeste,Cartão de Débito
+ORD-1155,2026-02-09,CLI-180,Mesa de Escritório,Móveis,5,,,Devolvido,sudeste,pix
+ORD-1156,2026.08.14,CLI-176,Teclado Mecânico,Acessórios,8,"R$ 350,00",15,Devolvido,sudeste,Boleto
+ORD-1157,2026-10-22,CLI-135,Webcam Full HD,Eletrônicos,9,310,,Concluído,,
+ORD-1158,2026-02-05,CLI-152,Mesa de Escritório,Móveis, 2 ,890.0,50,Devolvido,Sul,Cartão de Débito
+ORD-1159,2026-10-01,CLI-153,Notebook Pro 15,Eletrônicos,9,4500.0,20,concluido,Sul,PIX
+ORD-1160,2026-01-23,CLI-151,Headset Gamer,Acessórios,,"R$ 280,90",,Cancelado,,Boleto
+ORD-1161,14/09/2026,CLI-161,Mouse Sem Fio,Acessórios,3,"R$ 120,50",10%,Pendente,,PIX
+ORD-1162,2026-08-13,CLI-108,Cadeira Ergonômica,,,"R$ 1250,00",,concluido,Nordeste,
+ORD-1163,2026.03.23,CLI-159,Monitor 27 Polegadas,Eletrônicos,7,"R$ 1800,00",5%,Cancelado,,pix
+ORD-1164,2026.04.16,CLI-108,Mouse Sem Fio,Acessórios,4,120.50,20,cancelado,,pix
+ORD-1165,2026-07-20,CLI-158,Teclado Mecânico,Acessórios, 5 ,350.0,,CONCLUÍDO,sudeste,Cartão de Crédito
+ORD-1166,2026-07-11,CLI-153,Teclado Mecânico,Acessórios,9,350.0,,CONCLUÍDO,Nordeste,Cartão de Débito
+ORD-1167,2026-08-19,CLI-101,Mesa de Escritório,Móveis,9,890.0,50,Devolvido,,Cartão de Débito
+ORD-1168,2026-02-12,CLI-128,Cadeira Ergonômica,, 4 ,1250.0,,,Sul,pix
+ORD-1169,2026-07-07,CLI-156,Monitor 27 Polegadas,Eletrônicos,4,"R$ 1800,00",,Concluído,,Boleto
+ORD-1170,2026-08-13,CLI-130,Monitor 27 Polegadas,Eletrônicos,10,1800.0,0,CONCLUÍDO,Nordeste,PIX
+ORD-1171,2026.09.30,CLI-141,Cadeira Ergonômica,Móveis,2,1250,10,Devolvido,Sudeste,Boleto
+ORD-1172,09/03/2026,CLI-131,Webcam Full HD,Eletrônicos, 4 ,"R$ 310,00",10%,concluido,Sul,Cartão de Débito
+ORD-1173,2026-07-08,CLI-174,Notebook Pro 15,Eletrônicos,8,4500.0,,Pendente,Sul,pix
+ORD-1174,2026-04-19,CLI-136,Headset Gamer,Acessórios,6,280.9,50,Concluído,Sudeste,Cartão de Crédito
+ORD-1041,2026-08-14,CLI-154,Monitor 27 Polegadas,Eletrônicos,5,1800,,cancelado,Sul,
+ORD-1176,26/03/2026,CLI-129,Webcam Full HD,Eletrônicos,,310.00,0,CONCLUÍDO,Centro-Oeste,pix
+ORD-1088,2026-03-03,CLI-116,Mesa de Escritório,Móveis,2,890,,Pendente,Norte,PIX
+ORD-1178,2026-03-10,CLI-108,Notebook Pro 15,Eletrônicos,4,4500.0,10,CONCLUÍDO,SUL,pix
+ORD-1179,21/02/2026,CLI-149,Headset Gamer,Acessórios,5,280.9,,Cancelado,Norte,
+ORD-1180,04/06/2026,CLI-124,webcam full hd,Eletrônicos,4,310.00,0,concluido,Centro-Oeste,Cartão de Débito
+ORD-1181,2026-01-07,CLI-116,Webcam Full HD,Eletrônicos,3,310.0,,concluido,Sudeste,pix
+ORD-1182,2026-01-21,CLI-150,Cadeira Ergonômica,Móveis,7,1250,,CONCLUÍDO,Norte,Cartão de Crédito
+ORD-1183,2026-04-15,CLI-141,Webcam Full HD,Eletrônicos,2,"R$ 310,00",,Devolvido,Centro-Oeste,Cartão de Crédito
+ORD-1184,2026-03-01,CLI-139,Teclado Mecânico,Acessórios,3,350.00,,Pendente,Norte,PIX
+ORD-1185,2026-05-18,CLI-103,Headset Gamer,Acessórios,10,280.9,,,,pix
+ORD-1186,18/10/2026,CLI-113,Mouse Sem Fio,Acessórios,,120.5,,Cancelado,Sudeste,Cartão de Débito
+ORD-1187,2026-04-02,CLI-170,Webcam Full HD,Eletrônicos,6,"R$ 310,00",5%,concluido,sudeste,Cartão de Crédito
+ORD-1188,2026-09-22,CLI-108,Mesa de Escritório,Móveis,-1,890,,,Sudeste,Boleto
+ORD-1189,2026-06-05,CLI-147,Mesa de Escritório,Móveis,9,890.0,0,Cancelado,Nordeste,Cartão de Crédito
+ORD-1190,2026-06-27,CLI-101,Headset Gamer,,5,280,10,Cancelado,SUL,Cartão de Débito
+ORD-1191,,CLI-166,Webcam Full HD,Eletrônicos,2,310.0,5%,CONCLUÍDO,SUL,Cartão de Crédito
+ORD-1192,08/03/2026,CLI-140,Webcam Full HD,Eletrônicos,-1,"R$ 310,00",0,concluido,Centro-Oeste,PIX
+ORD-1193,24/02/2026,CLI-152,Mouse Sem Fio,Acessórios,5,120.50,20,concluido,Sul,PIX
+ORD-1194,21/01/2026,CLI-118,Mouse Sem Fio,Acessórios,1,120.5,50,cancelado,Nordeste,Cartão de Crédito
+ORD-1195,09/10/2026,CLI-117,Mouse Sem Fio,,3,120,15,Devolvido,sudeste,
+ORD-1196,2026.10.28,CLI-102,Mouse Sem Fio,Acessórios,2,120.5,0,Pendente,Sul,Cartão de Crédito
+ORD-1197,2026-10-21,CLI-163,Notebook Pro 15,Eletrônicos,3,"R$ 4500,00",0,,Nordeste,Cartão de Crédito
+ORD-1198,2026-06-01,CLI-161,Notebook Pro 15,Eletrônicos,9,4500,,Concluído,SUL,
+ORD-1199,2026.09.06,CLI-141,webcam full hd,Eletrônicos,1,310.0,15%,cancelado,Sudeste,Cartão de Débito
+ORD-1200,23/03/2026,CLI-134,Notebook Pro 15,Eletrônicos,7,"R$ 4500,00",15%,CONCLUÍDO,Nordeste,PIX
